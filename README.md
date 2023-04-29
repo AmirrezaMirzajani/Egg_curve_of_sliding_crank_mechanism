@@ -1,0 +1,1 @@
+# Egg_curve_of_sliding_crank_mechanism
